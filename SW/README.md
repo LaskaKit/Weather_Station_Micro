@@ -1,0 +1,1 @@
+See SW for Meteo Mini here https://github.com/LaskaKit/Weather_Station_Mini/tree/main/SW/TMEP/Platformio
