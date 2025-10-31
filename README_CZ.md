@@ -3,7 +3,7 @@
 Přemýšlíš o výrobě své vlastní domácí meteostanice?  
 Nachystali jsme pro tebe kompletní kit obsahující radiační Solární panel, krabičku, senzory, spojovací materiál a naši vývojovou desku Meteo Mini, kterou jednoduše naprogramuješ pomocí Arduino IDE.
 
-![LaskaKit Meteo Micro Weatherstation](https://github.com/LaskaKit/Weather_Station_Mini/blob/main/img/LaskaKit-meteo-micro-meteostanice-0.jpg)
+![LaskaKit Meteo Micro Weatherstation](https://github.com/LaskaKit/Weather_Station_Micro/blob/main/img/LaskaKit-meteo-micro-meteostanice-0.jpg)
 
 Obsahuje modul ESP32-C3-mimi založený na Wi-Fi čipu ESP32-C3, je osazen konektorem pro připojení I²C, SPI, a IO čidel.  
 Meteostanice je napájena z LiPol akumulátoru, který je připojen pomocí JST-PH-2 konektoru na základní desce.  
@@ -14,7 +14,7 @@ Deska má také integrovanou nabíječku Li-Pol akumulátoru, takže může být
 
 ## Součásti kitu
 
-![LaskaKit Meteo Mini](https://github.com/LaskaKit/Weather_Station_Mini/blob/main/img/LaskaKit-meteo-micro-meteostanice-4.jpg)
+![LaskaKit Meteo Mini](https://github.com/LaskaKit/Weather_Station_Micro/blob/main/img/LaskaKit-meteo-micro-meteostanice-4.jpg)
 
 - 1 ks – Základní deska LaskaKit Meteo Mini V4 IPEX  
 - 1 ks – Anténa 3.0dBi 11.5cm 2.4G  
