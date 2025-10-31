@@ -3,7 +3,7 @@
 Thinking about building your own home weather station?  
 We’ve prepared a complete kit that includes a **solar panel**, **enclosure**, **sensors**, **mounting hardware**, and our **Meteo Mini** development board, which you can easily program using **Arduino IDE**.
 
-![LaskaKit Meteo Micro Weatherstation](https://github.com/LaskaKit/Weather_Station_Mini/blob/main/img/LaskaKit-meteo-micro-meteostanice-0.jpg)
+![LaskaKit Meteo Micro Weatherstation](https://github.com/LaskaKit/Weather_Station_Micro/blob/main/img/LaskaKit-meteo-micro-meteostanice-0.jpg)
 
 It features an **ESP32-C3-mimi module** based on the **ESP32-C3 Wi-Fi chip**, equipped with connectors for **I²C**, **SPI**, and **IO** sensors.  
 The weather station is powered by a **Li-Pol battery**, connected via a **JST-PH-2 connector** on the main board.  
@@ -14,7 +14,7 @@ The board also includes an **integrated Li-Pol charger**, allowing the battery t
 
 ## Kit Contents
 
-![LaskaKit Meteo Mini](https://github.com/LaskaKit/Weather_Station_Mini/blob/main/img/LaskaKit-meteo-micro-meteostanice-4.jpg)
+![LaskaKit Meteo Mini](https://github.com/LaskaKit/Weather_Station_Micro/blob/main/img/LaskaKit-meteo-micro-meteostanice-4.jpg)
 
 - 1 pc – LaskaKit Meteo Mini V4 IPEX Main Board  
 - 1 pc – 3.0dBi 11.5cm 2.4G Antenna  
